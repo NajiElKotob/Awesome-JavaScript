@@ -1,2 +1,2 @@
-# Awesome-JavaScript
-Awesome JavaScript
+# Awesome JavaScript
+
