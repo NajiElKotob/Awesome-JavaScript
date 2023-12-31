@@ -3,6 +3,8 @@
 ## VS Code
 * [JavaScript in Visual Studio Code](https://code.visualstudio.com/docs/languages/javascript) - visualstudio.com
 
+## DevTools
+* [JavaScript debugging features (Edge)](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/javascript/reference) - microsoft.com
 
 ## Learn
 * [JavaScript Tutorial (W3Schools)](https://www.w3schools.com/js/) - w3schools.com
